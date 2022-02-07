@@ -98,7 +98,7 @@ function GenresList(props){
 										}}
 										// onClick={() => history.push("/design")}
 									>
-										Design
+										Skripsi 
 									</GenreButton>
 									</a>
 									{/* </NavLink> */}
@@ -120,7 +120,7 @@ function GenresList(props){
 										}}
 										// onClick={() => history.push("/motivation")}
 									>
-										Motivation
+										Modul Tutor
 									</GenreButton>
 									</a>
 									{/* </NavLink> */}
